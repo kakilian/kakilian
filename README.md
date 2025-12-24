@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**kakilian/kakilian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
 
-Here are some ideas to get you started:
+I'm working toward IT engineering roles with a focus on systems, devices, and structured workflows. I enjoy practical problem-solving and building efficient solutions that make a real difference. Whether it's optimizing processes or troubleshooting complex issues, I'm driven by the challenge of creating systems that work seamlessly.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- **Endpoint Support**: Managing and maintaining devices and user systems
+- **Networking Basics**: Understanding network fundamentals and troubleshooting
+- **Scripting**: Automating tasks and creating efficient solutions
+- **Git & Version Control**: Collaborative development and code management
+- **Systems Administration**: Working with various operating systems and configurations
+- **Problem Solving**: Analytical approach to identifying and resolving technical issues
+
+## 📚 Current Learning
+
+- **Full-Stack Development Fundamentals**: Understanding how software and systems connect
+- **Modern Development Practices**: Exploring how applications interact with infrastructure
+- **System Integration**: Learning to bridge the gap between software development and IT operations
+
+## 💡 Interests
+
+- Practical problem-solving and troubleshooting
+- Building efficient, scalable solutions
+- Automating workflows and processes
+- Exploring the intersection of software and systems
+- Optimizing IT infrastructure and operations
+
+## 📫 Contact
+
+Feel free to connect with me here on GitHub or reach out to discuss technology, collaboration opportunities, or interesting projects!
+
+---
+
+*Always learning, always building, always improving.* 🚀
