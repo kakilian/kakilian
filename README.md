@@ -4,6 +4,8 @@
 
 I'm working toward IT engineering roles with a focus on systems, devices, and structured workflows. I enjoy practical problem-solving and building efficient solutions that make a real difference. Whether it's optimizing processes or troubleshooting complex issues, I'm driven by the challenge of creating systems that work seamlessly.
 
+- Exploring how software is built and how code can create real-world solutions.
+
 ## 🛠️ Skills
 
 - **Endpoint Support**: Managing and maintaining devices and user systems
@@ -30,6 +32,7 @@ I'm working toward IT engineering roles with a focus on systems, devices, and st
 ## 📫 Contact
 
 Feel free to connect with me here on GitHub or reach out to discuss technology, collaboration opportunities, or interesting projects!
+ - [LinkedIn](https://www.linkedin.com/in/katarina-kilian-645242313/)
 
 ---
 
