@@ -63,7 +63,7 @@ I work in a structured way, take ownership of clearly defined tasks, and activel
 
 
 ## 📫 Contact
-- 📧 **Email:** khkilian22@gmail.com  
+- 📧 **Email:** <kat@readwithkat.com> 
 - 🔗 **LinkedIn:** https://linkedin.com/in/katarina-kilian-645242313/
 
 ---
