@@ -66,7 +66,7 @@ Recent work includes:
 
 ![IBM](https://img.shields.io/badge/IBM-IT_Education-052FAD?style=flat-square)
 ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white)
-![React](https://img.shields.io/badge/React-Fundamentals-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-Fundamentals-20232A?style=flat-square&logo=react&logoColor=61DAFB) 
 
 I’ve completed IT courses through **IBM on Coursera** and continue developing my skills through further online training, independent study, and hands-on projects.
 
